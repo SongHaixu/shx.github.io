@@ -1,29 +1,10 @@
-## Song Haixu
 
 
-```markdown
-Syntax highlighted code block
+### EDUCATION EXPERIENCE
 
-# Header 1
-## Header 2
-### Header 3
+M.S. in Department of Control Science and Engineering, School of Astronautics, Harbin Institute of Technology
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SongHaixu/shx.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+B.S. in Department of Automation, School of Astronautics, Harbin Institute of Technology
 
 ### RESEARCH EXPERIENCE
 
@@ -40,8 +21,7 @@ Research Assistant under the guidance of Prof. Guanghui Sun, Prof. Jianxing Liu 
 
 _Participated in an engineering project - [Design and Verification Platform of Unmanned System](http://aius.hit.edu.cn/zzwrjqpt/list.htm)_
 
-* Established a virtual environment
-* Built a data transmission system
+* Coding
 * Object detection
 * Reinforcement learning
 
