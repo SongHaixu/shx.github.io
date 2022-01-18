@@ -38,7 +38,7 @@ Team Member under the guidance of Prof. Ju Huo
 
 Research Assistant under the guidance of Prof. Guanghui Sun, Prof. Jianxing Liu and Prof. Weiran Yao
 
-_Participated in an engineering project - [Design and Verification Platform of Unmanned System](http://aius.hit.edu.cn/zzwrjqpt/list.htm)
+_Participated in an engineering project - [Design and Verification Platform of Unmanned System]_(http://aius.hit.edu.cn/zzwrjqpt/list.htm)
 
 * Established a virtual environment
 * Built a data transmission system
