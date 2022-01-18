@@ -1,4 +1,3 @@
-Song Haixu
 This is  a page for Song Haixu
 
 ## EDUCATION EXPERIENCE
