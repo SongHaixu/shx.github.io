@@ -31,22 +31,24 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Team Member under the guidance of Prof. Ju Huo
 
-* Image Processing: Developed code for detecting racetrack and specific elements like roundabout, Calculated the path and direction which the smart car needed to follow
-* Robot controlling: Maintained the balance and high speed of robot, Controlled the direction in real time based on PID method
+* Image Processing
+* Robot controlling
 
 **Key Laboratory of Autonomous Intelligent Unmanned Systems**
 
 Research Assistant under the guidance of Prof. Guanghui Sun, Prof. Jianxing Liu and Prof. Weiran Yao
 
-_Participated in an engineering project - Design and Verification Platform of Unmanned System_
+_Participated in an engineering project - [Design and Verification Platform of Unmanned System_](http://aius.hit.edu.cn/zzwrjqpt/list.htm)
 
-* Built a data transmission system among multiple computers based on Modbus communication protocol, Established a virtual environment based on Unity3d which could verify the control algorithm and display real-time information of realistic environment
-* Detected and located robots from various camps, Generated motion strategy based on reinforcement learning
+* Established a virtual environment
+* Built a data transmission system
+* Object detection
+* Reinforcement learning
 
 _Researched on Deep Learning_
 
-* Transfer learning: Proposed a new method to solve the transfer task when target domain doesn't involve enough data
-* AI safety: Used CNN-RNN architecture to classify multi-label picture, Applied common methods like FGSM to attack the network, Proposed a new method of generating adversarial examples
+* Transfer learning
+* AI safety
 
 ### HONORS & REWARDS
 
@@ -65,4 +67,16 @@ _Researched on Deep Learning_
 
 ### PUBLICATIONS
 
-* Weiran Yao, Liming Xin, Desong Du, Haixu Song, Mitesh Badiwala, and Yu Sun. Semi-Parametric Model-Based Adaptive Control for Aortic Pressure Regulation in ex situ Heart Perfusion(under review)
+* Weiran Yao, Liming Xin, Desong Du, **Haixu Song**, Mitesh Badiwala, and Yu Sun. Semi-Parametric Model-Based Adaptive Control for Aortic Pressure Regulation in ex situ Heart Perfusion(under review)
+
+### COMMUNITY WORK
+
+* Student Lecturer
+* Secretary of Entertainment Department, the Student Union
+* Volunteer
+
+### SKILLS
+
+* Programming Languages: Python, C, C#, matlab
+* Framework: PyTorch
+* Other Skills: Linux, Anaconda, Unity3D, ROS(Robot Operating System)
