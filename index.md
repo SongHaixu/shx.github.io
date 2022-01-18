@@ -41,9 +41,9 @@ _Researched on Deep Learning_
 
 ### PATENTS
 
-* A Migration Training System for Multi Robot Confrontation (under review)
-* A Force Calibration Method Applied to the Assembly Rope-driven Process of Large Space (under review)
-* A Parallel Rope Traction Air Supply Device and Method Applied to Air Floating Microgravity Simulation Platform
+* [A Migration Training System for Multi Robot Confrontation](http://www.soopat.com/Patent/202111248683)
+* [A Force Calibration Method Applied to the Assembly Rope-driven Process of Large Space](http://www.soopat.com/Patent/202110730295)
+* [A Parallel Rope Traction Air Supply Device and Method Applied to Air Floating Microgravity Simulation Platform](http://www.soopat.com/Patent/202110925031)
 
 ### PUBLICATIONS
 
