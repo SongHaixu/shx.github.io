@@ -32,17 +32,34 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SongHaixu/shx.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
 ### RESEARCH EXPERIENCE
+
+**HIT Smart Car & Innovation Club**
+
+Team Member under the guidance of Prof. Ju Huo
+
+* Image Processing: Developed code for detecting racetrack and specific elements like roundabout, Calculated the path and direction which the smart car needed to follow
+* Robot controlling: Maintained the balance and high speed of robot, Controlled the direction in real time based on PID method
+
+**Key Laboratory of Autonomous Intelligent Unmanned Systems**
+
+Research Assistant under the guidance of Prof. Guanghui Sun, Prof. Jianxing Liu and Prof. Weiran Yao
+
+_Participated in an engineering project - Design and Verification Platform of Unmanned System_
+
+* Built a data transmission system among multiple computers based on Modbus communication protocol, Established a virtual environment based on Unity3d which could verify the control algorithm and display real-time information of realistic environment
+* Detected and located robots from various camps, Generated motion strategy based on reinforcement learning
+
+_Researched on Deep Learning_
+
+* Transfer learning: Proposed a new method to solve the transfer task when target domain doesn't involve enough data
+* AI safety: Used CNN-RNN architecture to classify multi-label picture, Applied common methods like FGSM to attack the network, Proposed a new method of generating adversarial examples
 
 ### HONORS & REWARDS
 
-* ROLMEX Science and Technology Aerospace Scholarship 2018
-* Contemporary Undergraduate Mathematical Contest in Modeling, First Prize of Heilongjiang Province 2018
-* Mathematical Contest In Modeling, Meritorious Winner 2019
+* ROLMEX Science and Technology Aerospace Scholarship
+* Contemporary Undergraduate Mathematical Contest in Modeling, First Prize of Heilongjiang Province
+* Mathematical Contest In Modeling, Meritorious Winner
 * First-class Scholarship
 * Excellent Student Leader
 * Excellent League Members
