@@ -17,7 +17,7 @@ Team Member under the guidance of Prof. Ju Huo
 
 **Key Laboratory of Autonomous Intelligent Unmanned Systems**
 
-Research Assistant under the guidance of Prof. Guanghui Sun, Prof. Jianxing Liu and Prof. Weiran Yao
+Research Assistant under the guidance of Prof. Weiran Yao
 
 _Participated in an engineering project - [Design and Verification Platform of Unmanned System](http://aius.hit.edu.cn/zzwrjqpt/list.htm)_
 
