@@ -15,7 +15,7 @@ Team Member under the guidance of Prof. Ju Huo
 * Image Processing
 * Robot controlling
 
-**Key Laboratory of Autonomous Intelligent Unmanned Systems**
+[**Key Laboratory of Autonomous Intelligent Unmanned Systems**](http://aius.hit.edu.cn/12888/list.htm)
 
 Research Assistant under the guidance of Prof. Weiran Yao
 
